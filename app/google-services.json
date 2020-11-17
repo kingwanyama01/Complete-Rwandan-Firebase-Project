@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "327574559222",
+    "firebase_url": "https://my-rwandan-app.firebaseio.com",
+    "project_id": "my-rwandan-app",
+    "storage_bucket": "my-rwandan-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327574559222:android:afaedbdf7f77c1468a8fd7",
+        "android_client_info": {
+          "package_name": "com.king.mycompleterwandanfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327574559222-eakq56iqvi1m50srqdupf6osl86ukge4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB95_w3U2AetuW19TtqAr8HNWacsAt0v0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327574559222-eakq56iqvi1m50srqdupf6osl86ukge4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
